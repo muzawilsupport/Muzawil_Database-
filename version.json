@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  
+  "professions": {
+    "تخدير": [
+      "anaesthesia"
+    ],
+    "فني عمليات": [
+      "anaesthesia"
+    ],
+    "فني طوارئ": [
+      "anaesthesia"
+    ],
+    "طب بشري": [
+      "anaesthesia"
+    ]
+  },
+  
+  "subjects": {
+    "anaesthesia": {
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/anaesthesia.enc",
+      "size_bytes": 3661856
+    }
+  }
+}
