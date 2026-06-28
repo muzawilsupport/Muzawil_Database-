@@ -1,102 +1,121 @@
 {
-  "anaesthesia": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/anaesthesia.enc",
-    "version": 1,
-    "size_bytes": 987568
+  "version": 1,
+  "subjects": {
+    "anaesthesia": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/anaesthesia.enc",
+      "version": 1,
+      "size_bytes": 987568
+    },
+    "anatomy": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/anatomy.enc",
+      "version": 1,
+      "size_bytes": 3781504
+    },
+    "biochemistry": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/biochemistry.enc",
+      "version": 1,
+      "size_bytes": 2398400
+    },
+    "dental": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/dental.enc",
+      "version": 1,
+      "size_bytes": 1631808
+    },
+    "ent": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/ent.enc",
+      "version": 1,
+      "size_bytes": 1392448
+    },
+    "forensic medicine": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/forensic%20medicine.enc",
+      "version": 1,
+      "size_bytes": 1465712
+    },
+    "gynaecology & obstetrics": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/gynaecology%20%26%20obstetrics.enc",
+      "version": 1,
+      "size_bytes": 3094944
+    },
+    "medicine": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/medicine.enc",
+      "version": 1,
+      "size_bytes": 5827232
+    },
+    "microbiology": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/microbiology.enc",
+      "version": 1,
+      "size_bytes": 3120736
+    },
+    "ophthalmology": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/ophthalmology.enc",
+      "version": 1,
+      "size_bytes": 1848560
+    },
+    "orthopaedics": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/orthopaedics.enc",
+      "version": 1,
+      "size_bytes": 975952
+    },
+    "pathology": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/pathology.enc",
+      "version": 1,
+      "size_bytes": 4481776
+    },
+    "pediatrics": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/pediatrics.enc",
+      "version": 1,
+      "size_bytes": 2489232
+    },
+    "pharmacology": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/pharmacology.enc",
+      "version": 1,
+      "size_bytes": 3467872
+    },
+    "physiology": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/physiology.enc",
+      "version": 1,
+      "size_bytes": 2551808
+    },
+    "psychiatry": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/psychiatry.enc",
+      "version": 1,
+      "size_bytes": 1398256
+    },
+    "radiology": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/radiology.enc",
+      "version": 1,
+      "size_bytes": 1198512
+    },
+    "skin": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/skin.enc",
+      "version": 1,
+      "size_bytes": 618672
+    },
+    "social & preventive medicine": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/social%20%26%20preventive%20medicine.enc",
+      "version": 1,
+      "size_bytes": 3122176
+    },
+    "surgery": {
+      "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/surgery.enc",
+      "version": 1,
+      "size_bytes": 5058336
+    }
   },
-  "anatomy": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/anatomy.enc",
-    "version": 1,
-    "size_bytes": 3781504
-  },
-  "biochemistry": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/biochemistry.enc",
-    "version": 1,
-    "size_bytes": 2398400
-  },
-  "dental": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/dental.enc",
-    "version": 1,
-    "size_bytes": 1631808
-  },
-  "ent": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/ent.enc",
-    "version": 1,
-    "size_bytes": 1392448
-  },
-  "forensic medicine": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/forensic medicine.enc",
-    "version": 1,
-    "size_bytes": 1465712
-  },
-  "gynaecology & obstetrics": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/gynaecology & obstetrics.enc",
-    "version": 1,
-    "size_bytes": 3094944
-  },
-  "medicine": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/medicine.enc",
-    "version": 1,
-    "size_bytes": 5827232
-  },
-  "microbiology": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/microbiology.enc",
-    "version": 1,
-    "size_bytes": 3120736
-  },
-  "ophthalmology": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/ophthalmology.enc",
-    "version": 1,
-    "size_bytes": 1848560
-  },
-  "orthopaedics": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/orthopaedics.enc",
-    "version": 1,
-    "size_bytes": 975952
-  },
-  "pathology": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/pathology.enc",
-    "version": 1,
-    "size_bytes": 4481776
-  },
-  "pediatrics": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/pediatrics.enc",
-    "version": 1,
-    "size_bytes": 2489232
-  },
-  "pharmacology": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/pharmacology.enc",
-    "version": 1,
-    "size_bytes": 3467872
-  },
-  "physiology": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/physiology.enc",
-    "version": 1,
-    "size_bytes": 2551808
-  },
-  "psychiatry": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/psychiatry.enc",
-    "version": 1,
-    "size_bytes": 1398256
-  },
-  "radiology": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/radiology.enc",
-    "version": 1,
-    "size_bytes": 1198512
-  },
-  "skin": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/skin.enc",
-    "version": 1,
-    "size_bytes": 618672
-  },
-  "social & preventive medicine": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/social & preventive medicine.enc",
-    "version": 1,
-    "size_bytes": 3122176
-  },
-  "surgery": {
-    "url": "https://raw.githubusercontent.com/muzawilsupport/Muzawil_Database-/main/surgery.enc",
-    "version": 1,
-    "size_bytes": 5058336
+  "professions": {
+    "تخدير": ["Anaesthesia", "Pharmacology"],
+    "فني عمليات": ["Anaesthesia", "Surgery"],
+    "فني طوارئ": ["Anaesthesia", "Medicine", "Surgery", "Forensic Medicine"],
+    "طب بشري": ["Anaesthesia", "Anatomy", "Biochemistry", "ENT", "Gynaecology & Obstetrics", "Medicine", "Microbiology", "Ophthalmology", "Orthopaedics", "Pathology", "Pediatrics", "Pharmacology", "Physiology", "Radiology", "Surgery", "Psychiatry", "Skin", "Forensic Medicine", "Social & Preventive Medicine"],
+    "أسنان": ["Anatomy", "Biochemistry", "Dental", "Pathology", "Pharmacology", "Physiology", "Radiology"],
+    "علاج طبيعي": ["Anatomy", "Orthopaedics", "Physiology"],
+    "تمريض": ["Anatomy", "Gynaecology & Obstetrics", "Medicine", "Microbiology", "Pharmacology", "Physiology", "Psychiatry", "Forensic Medicine", "Social & Preventive Medicine"],
+    "مساعد طبيب": ["Anatomy", "ENT", "Gynaecology & Obstetrics", "Medicine", "Orthopaedics", "Pediatrics", "Surgery", "Ophthalmology", "Psychiatry", "Skin", "Social & Preventive Medicine"],
+    "صيدلة": ["Biochemistry", "Microbiology", "Pharmacology", "Physiology"],
+    "مختبرات": ["Biochemistry", "Microbiology", "Pathology"],
+    "قبالة": ["Gynaecology & Obstetrics", "Pediatrics"],
+    "رعاية تنفسية": ["Medicine", "Physiology"],
+    "اشعة": ["Radiology"],
+    "اختبارات عامة": ["Anatomy", "Physiology", "Social & Preventive Medicine"]
   }
 }
